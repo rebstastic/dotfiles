@@ -51,7 +51,7 @@ set tabstop=2
 set shiftwidth=2
 set expandtab
 " Show “invisible” characters
-set lcs=tab:▸\ ,trail:·,eol:¬,nbsp:_,space:
+set lcs=tab:▸\ ,eol:¬,nbsp:_,space:·
 set list
 " Highlight searches
 set hlsearch
